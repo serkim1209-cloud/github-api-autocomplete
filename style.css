@@ -67,3 +67,8 @@ button{
 li:hover{
     background-color: #65CDF9;
 }
+input::placeholder{
+ font-size: 30px;
+ text-align: center;
+ 
+}
